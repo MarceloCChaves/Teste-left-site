@@ -12,7 +12,10 @@ O objetivo é desenvolver um site simples para apresentação de um produto, no 
 - Css
 
 # 📁 Clonando o Repositório
-- Abra o terminal da sua IDE e digite git clone https://github.com/MarceloCChaves/Teste-left-site.git
+- Abra o terminal da sua IDE e digite:
+```
+git clone https://github.com/MarceloCChaves/Teste-left-site.git
+```
 
 # 👨 Autor
 ---
